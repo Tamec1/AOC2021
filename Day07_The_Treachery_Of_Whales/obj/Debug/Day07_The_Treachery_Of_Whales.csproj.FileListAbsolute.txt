@@ -1,0 +1,7 @@
+D:\AoC\AdventOfCode2021\Day07_The_Treachery_Of_Whales\bin\Debug\Day07_The_Treachery_Of_Whales.exe.config
+D:\AoC\AdventOfCode2021\Day07_The_Treachery_Of_Whales\bin\Debug\Day07_The_Treachery_Of_Whales.exe
+D:\AoC\AdventOfCode2021\Day07_The_Treachery_Of_Whales\bin\Debug\Day07_The_Treachery_Of_Whales.pdb
+D:\AoC\AdventOfCode2021\Day07_The_Treachery_Of_Whales\obj\Debug\Day07_The_Treachery_Of_Whales.csprojAssemblyReference.cache
+D:\AoC\AdventOfCode2021\Day07_The_Treachery_Of_Whales\obj\Debug\Day07_The_Treachery_Of_Whales.csproj.CoreCompileInputs.cache
+D:\AoC\AdventOfCode2021\Day07_The_Treachery_Of_Whales\obj\Debug\Day07_The_Treachery_Of_Whales.exe
+D:\AoC\AdventOfCode2021\Day07_The_Treachery_Of_Whales\obj\Debug\Day07_The_Treachery_Of_Whales.pdb

@@ -1,0 +1,6 @@
+D:\AoC\AdventOfCode2021\Day08_Seven_Segment_Search\bin\Debug\Day08_Seven_Segment_Search.exe.config
+D:\AoC\AdventOfCode2021\Day08_Seven_Segment_Search\bin\Debug\Day08_Seven_Segment_Search.exe
+D:\AoC\AdventOfCode2021\Day08_Seven_Segment_Search\bin\Debug\Day08_Seven_Segment_Search.pdb
+D:\AoC\AdventOfCode2021\Day08_Seven_Segment_Search\obj\Debug\Day08_Seven_Segment_Search.csproj.CoreCompileInputs.cache
+D:\AoC\AdventOfCode2021\Day08_Seven_Segment_Search\obj\Debug\Day08_Seven_Segment_Search.exe
+D:\AoC\AdventOfCode2021\Day08_Seven_Segment_Search\obj\Debug\Day08_Seven_Segment_Search.pdb

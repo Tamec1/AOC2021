@@ -1,0 +1,6 @@
+D:\AoC\AdventOfCode2021\Day03_Binary_Diagnostic\bin\Debug\Day03_Binary_Diagnostic.exe.config
+D:\AoC\AdventOfCode2021\Day03_Binary_Diagnostic\bin\Debug\Day03_Binary_Diagnostic.exe
+D:\AoC\AdventOfCode2021\Day03_Binary_Diagnostic\bin\Debug\Day03_Binary_Diagnostic.pdb
+D:\AoC\AdventOfCode2021\Day03_Binary_Diagnostic\obj\Debug\Day03_Binary_Diagnostic.csproj.CoreCompileInputs.cache
+D:\AoC\AdventOfCode2021\Day03_Binary_Diagnostic\obj\Debug\Day03_Binary_Diagnostic.exe
+D:\AoC\AdventOfCode2021\Day03_Binary_Diagnostic\obj\Debug\Day03_Binary_Diagnostic.pdb

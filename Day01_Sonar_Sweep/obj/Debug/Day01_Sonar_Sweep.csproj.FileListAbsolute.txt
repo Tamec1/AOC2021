@@ -1,0 +1,7 @@
+D:\AoC\AdventOfCode2021\Day01_Sonar_Sweep\bin\Debug\Day01_Sonar_Sweep.exe.config
+D:\AoC\AdventOfCode2021\Day01_Sonar_Sweep\bin\Debug\Day01_Sonar_Sweep.exe
+D:\AoC\AdventOfCode2021\Day01_Sonar_Sweep\bin\Debug\Day01_Sonar_Sweep.pdb
+D:\AoC\AdventOfCode2021\Day01_Sonar_Sweep\obj\Debug\Day01_Sonar_Sweep.csproj.CoreCompileInputs.cache
+D:\AoC\AdventOfCode2021\Day01_Sonar_Sweep\obj\Debug\Day01_Sonar_Sweep.exe
+D:\AoC\AdventOfCode2021\Day01_Sonar_Sweep\obj\Debug\Day01_Sonar_Sweep.pdb
+D:\AoC\AdventOfCode2021\Day01_Sonar_Sweep\obj\Debug\Day01_Sonar_Sweep.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\AoC\AdventOfCode2021\Day02_Dive\bin\Debug\Day02_Dive.exe.config
+D:\AoC\AdventOfCode2021\Day02_Dive\bin\Debug\Day02_Dive.exe
+D:\AoC\AdventOfCode2021\Day02_Dive\bin\Debug\Day02_Dive.pdb
+D:\AoC\AdventOfCode2021\Day02_Dive\obj\Debug\Day02_Dive.csprojAssemblyReference.cache
+D:\AoC\AdventOfCode2021\Day02_Dive\obj\Debug\Day02_Dive.csproj.CoreCompileInputs.cache
+D:\AoC\AdventOfCode2021\Day02_Dive\obj\Debug\Day02_Dive.exe
+D:\AoC\AdventOfCode2021\Day02_Dive\obj\Debug\Day02_Dive.pdb

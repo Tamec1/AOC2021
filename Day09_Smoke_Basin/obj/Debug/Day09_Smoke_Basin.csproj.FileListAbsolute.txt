@@ -1,0 +1,7 @@
+D:\AoC\AdventOfCode2021\Day09_Smoke_Basin\bin\Debug\Day09_Smoke_Basin.exe.config
+D:\AoC\AdventOfCode2021\Day09_Smoke_Basin\bin\Debug\Day09_Smoke_Basin.exe
+D:\AoC\AdventOfCode2021\Day09_Smoke_Basin\bin\Debug\Day09_Smoke_Basin.pdb
+D:\AoC\AdventOfCode2021\Day09_Smoke_Basin\obj\Debug\Day09_Smoke_Basin.csproj.CoreCompileInputs.cache
+D:\AoC\AdventOfCode2021\Day09_Smoke_Basin\obj\Debug\Day09_Smoke_Basin.exe
+D:\AoC\AdventOfCode2021\Day09_Smoke_Basin\obj\Debug\Day09_Smoke_Basin.pdb
+D:\AoC\AdventOfCode2021\Day09_Smoke_Basin\obj\Debug\Day09_Smoke_Basin.csprojAssemblyReference.cache

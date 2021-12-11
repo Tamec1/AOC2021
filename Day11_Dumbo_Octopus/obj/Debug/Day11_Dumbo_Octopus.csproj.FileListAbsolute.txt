@@ -1,0 +1,7 @@
+D:\AoC\AdventOfCode2021\Day11_Dumbo_Octopus\bin\Debug\Day11_Dumbo_Octopus.exe.config
+D:\AoC\AdventOfCode2021\Day11_Dumbo_Octopus\bin\Debug\Day11_Dumbo_Octopus.exe
+D:\AoC\AdventOfCode2021\Day11_Dumbo_Octopus\bin\Debug\Day11_Dumbo_Octopus.pdb
+D:\AoC\AdventOfCode2021\Day11_Dumbo_Octopus\obj\Debug\Day11_Dumbo_Octopus.csprojAssemblyReference.cache
+D:\AoC\AdventOfCode2021\Day11_Dumbo_Octopus\obj\Debug\Day11_Dumbo_Octopus.csproj.CoreCompileInputs.cache
+D:\AoC\AdventOfCode2021\Day11_Dumbo_Octopus\obj\Debug\Day11_Dumbo_Octopus.exe
+D:\AoC\AdventOfCode2021\Day11_Dumbo_Octopus\obj\Debug\Day11_Dumbo_Octopus.pdb

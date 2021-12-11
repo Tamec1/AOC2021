@@ -1,0 +1,7 @@
+D:\AoC\AdventOfCode2021\Day04_Giant_Squid\bin\Debug\Day04_Giant_Squid.exe.config
+D:\AoC\AdventOfCode2021\Day04_Giant_Squid\bin\Debug\Day04_Giant_Squid.exe
+D:\AoC\AdventOfCode2021\Day04_Giant_Squid\bin\Debug\Day04_Giant_Squid.pdb
+D:\AoC\AdventOfCode2021\Day04_Giant_Squid\obj\Debug\Day04_Giant_Squid.csprojAssemblyReference.cache
+D:\AoC\AdventOfCode2021\Day04_Giant_Squid\obj\Debug\Day04_Giant_Squid.csproj.CoreCompileInputs.cache
+D:\AoC\AdventOfCode2021\Day04_Giant_Squid\obj\Debug\Day04_Giant_Squid.exe
+D:\AoC\AdventOfCode2021\Day04_Giant_Squid\obj\Debug\Day04_Giant_Squid.pdb

@@ -1,0 +1,7 @@
+D:\AoC\AdventOfCode2021\Day06_Lanternfish\bin\Debug\Day06_Lanternfish.exe.config
+D:\AoC\AdventOfCode2021\Day06_Lanternfish\bin\Debug\Day06_Lanternfish.exe
+D:\AoC\AdventOfCode2021\Day06_Lanternfish\bin\Debug\Day06_Lanternfish.pdb
+D:\AoC\AdventOfCode2021\Day06_Lanternfish\obj\Debug\Day06_Lanternfish.csprojAssemblyReference.cache
+D:\AoC\AdventOfCode2021\Day06_Lanternfish\obj\Debug\Day06_Lanternfish.csproj.CoreCompileInputs.cache
+D:\AoC\AdventOfCode2021\Day06_Lanternfish\obj\Debug\Day06_Lanternfish.exe
+D:\AoC\AdventOfCode2021\Day06_Lanternfish\obj\Debug\Day06_Lanternfish.pdb

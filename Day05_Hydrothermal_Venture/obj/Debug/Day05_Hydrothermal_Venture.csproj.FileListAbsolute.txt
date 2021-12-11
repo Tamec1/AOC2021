@@ -1,0 +1,6 @@
+D:\AoC\AdventOfCode2021\Day05_Hydrothermal_Venture\bin\Debug\Day05_Hydrothermal_Venture.exe.config
+D:\AoC\AdventOfCode2021\Day05_Hydrothermal_Venture\bin\Debug\Day05_Hydrothermal_Venture.exe
+D:\AoC\AdventOfCode2021\Day05_Hydrothermal_Venture\bin\Debug\Day05_Hydrothermal_Venture.pdb
+D:\AoC\AdventOfCode2021\Day05_Hydrothermal_Venture\obj\Debug\Day05_Hydrothermal_Venture.csproj.CoreCompileInputs.cache
+D:\AoC\AdventOfCode2021\Day05_Hydrothermal_Venture\obj\Debug\Day05_Hydrothermal_Venture.exe
+D:\AoC\AdventOfCode2021\Day05_Hydrothermal_Venture\obj\Debug\Day05_Hydrothermal_Venture.pdb
